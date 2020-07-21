@@ -1,5 +1,4 @@
-![WordCrypt Logo](/preview/wordCrypt.png | width=25)
-
+<img src="preview/wordCrypt.png" width="60" />
 # WordCrypt
 
 WordCrypt generates cryptic English words masked with numbers and Greek alphabets that humans can miraculously understand.
