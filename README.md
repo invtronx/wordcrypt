@@ -8,6 +8,10 @@ WordCrypt generates cryptic English words masked with numbers and Greek alphabet
 
 ![WordCrypt Screencast](preview/wordCrypt.gif)
 
+## Live Website
+
+WordCrypt is live at [wordcrypt.netlify.app](https://wordcrypt.netlify.app/).
+
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
